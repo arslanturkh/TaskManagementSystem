@@ -25,3 +25,6 @@ Thumbs.db
 # Ignore sensitive configuration files
 **/appsettings*.json
 !**/appsettings.json
+backend/TaskManagementApp/.vs/TaskManagementApp/FileContentIndex/5c1f3353-c313-4cc1-8f8e-3fa33afeede6.vsidx
+backend/TaskManagementApp/.vs/TaskManagementApp/FileContentIndex/61779250-f0d5-468b-9b31-830993ff0eba.vsidx
+backend/TaskManagementApp/.vs/TaskManagementApp/FileContentIndex/e0d6567a-16f1-4a18-954e-9ad358958d9c.vsidx
