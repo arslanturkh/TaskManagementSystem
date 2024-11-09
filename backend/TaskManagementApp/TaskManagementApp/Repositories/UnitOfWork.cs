@@ -1,5 +1,4 @@
-﻿using System.Threading.Tasks;
-using TaskManagementApp.Data;
+﻿using TaskManagementApp.Data;
 using TaskManagementApp.Interfaces;
 using TaskManagementApp.Models;
 

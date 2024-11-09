@@ -1,5 +1,4 @@
-﻿using System.Threading.Tasks;
-using TaskManagementApp.Models;
+﻿using TaskManagementApp.Models;
 
 namespace TaskManagementApp.Interfaces
 {
