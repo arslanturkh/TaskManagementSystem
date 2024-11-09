@@ -3,12 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\halil\\OneDrive\\Belgeler\\Documents\\Resume\\Interview Questions\\2024.11.08_Tekhnelogos\\TaskManagementSystem\\backend\\TaskManagementApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4D8C9350-95D3-43CF-8930-18B59B469FBB}|TaskManagementApp\\TaskManagementApp.csproj|c:\\users\\halil\\onedrive\\belgeler\\documents\\resume\\interview questions\\2024.11.08_tekhnelogos\\taskmanagementsystem\\backend\\taskmanagementapp\\taskmanagementapp\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4D8C9350-95D3-43CF-8930-18B59B469FBB}|TaskManagementApp\\TaskManagementApp.csproj|solutionrelative:taskmanagementapp\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4D8C9350-95D3-43CF-8930-18B59B469FBB}|TaskManagementApp\\TaskManagementApp.csproj|c:\\users\\halil\\onedrive\\belgeler\\documents\\resume\\interview questions\\2024.11.08_tekhnelogos\\taskmanagementsystem\\backend\\taskmanagementapp\\taskmanagementapp\\repositories\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D8C9350-95D3-43CF-8930-18B59B469FBB}|TaskManagementApp\\TaskManagementApp.csproj|solutionrelative:taskmanagementapp\\repositories\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D8C9350-95D3-43CF-8930-18B59B469FBB}|TaskManagementApp\\TaskManagementApp.csproj|c:\\users\\halil\\onedrive\\belgeler\\documents\\resume\\interview questions\\2024.11.08_tekhnelogos\\taskmanagementsystem\\backend\\taskmanagementapp\\taskmanagementapp\\interfaces\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D8C9350-95D3-43CF-8930-18B59B469FBB}|TaskManagementApp\\TaskManagementApp.csproj|solutionrelative:taskmanagementapp\\interfaces\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D8C9350-95D3-43CF-8930-18B59B469FBB}|TaskManagementApp\\TaskManagementApp.csproj|c:\\users\\halil\\onedrive\\belgeler\\documents\\resume\\interview questions\\2024.11.08_tekhnelogos\\taskmanagementsystem\\backend\\taskmanagementapp\\taskmanagementapp\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D8C9350-95D3-43CF-8930-18B59B469FBB}|TaskManagementApp\\TaskManagementApp.csproj|solutionrelative:taskmanagementapp\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4D8C9350-95D3-43CF-8930-18B59B469FBB}|TaskManagementApp\\TaskManagementApp.csproj|c:\\users\\halil\\onedrive\\belgeler\\documents\\resume\\interview questions\\2024.11.08_tekhnelogos\\taskmanagementsystem\\backend\\taskmanagementapp\\taskmanagementapp\\models\\taskitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4D8C9350-95D3-43CF-8930-18B59B469FBB}|TaskManagementApp\\TaskManagementApp.csproj|solutionrelative:taskmanagementapp\\models\\taskitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D8C9350-95D3-43CF-8930-18B59B469FBB}|TaskManagementApp\\TaskManagementApp.csproj|c:\\users\\halil\\onedrive\\belgeler\\documents\\resume\\interview questions\\2024.11.08_tekhnelogos\\taskmanagementsystem\\backend\\taskmanagementapp\\taskmanagementapp\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D8C9350-95D3-43CF-8930-18B59B469FBB}|TaskManagementApp\\TaskManagementApp.csproj|solutionrelative:taskmanagementapp\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D8C9350-95D3-43CF-8930-18B59B469FBB}|TaskManagementApp\\TaskManagementApp.csproj|c:\\users\\halil\\onedrive\\belgeler\\documents\\resume\\interview questions\\2024.11.08_tekhnelogos\\taskmanagementsystem\\backend\\taskmanagementapp\\taskmanagementapp\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D8C9350-95D3-43CF-8930-18B59B469FBB}|TaskManagementApp\\TaskManagementApp.csproj|solutionrelative:taskmanagementapp\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D8C9350-95D3-43CF-8930-18B59B469FBB}|TaskManagementApp\\TaskManagementApp.csproj|c:\\users\\halil\\onedrive\\belgeler\\documents\\resume\\interview questions\\2024.11.08_tekhnelogos\\taskmanagementsystem\\backend\\taskmanagementapp\\taskmanagementapp\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D8C9350-95D3-43CF-8930-18B59B469FBB}|TaskManagementApp\\TaskManagementApp.csproj|solutionrelative:taskmanagementapp\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,24 +38,89 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\halil\\OneDrive\\Belgeler\\Documents\\Resume\\Interview Questions\\2024.11.08_Tekhnelogos\\TaskManagementSystem\\backend\\TaskManagementApp\\TaskManagementApp\\Repositories\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "TaskManagementApp\\Repositories\\UnitOfWork.cs",
+              "ToolTip": "C:\\Users\\halil\\OneDrive\\Belgeler\\Documents\\Resume\\Interview Questions\\2024.11.08_Tekhnelogos\\TaskManagementSystem\\backend\\TaskManagementApp\\TaskManagementApp\\Repositories\\UnitOfWork.cs",
+              "RelativeToolTip": "TaskManagementApp\\Repositories\\UnitOfWork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T15:59:18.18Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\halil\\OneDrive\\Belgeler\\Documents\\Resume\\Interview Questions\\2024.11.08_Tekhnelogos\\TaskManagementSystem\\backend\\TaskManagementApp\\TaskManagementApp\\Interfaces\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "TaskManagementApp\\Interfaces\\IUnitOfWork.cs",
+              "ToolTip": "C:\\Users\\halil\\OneDrive\\Belgeler\\Documents\\Resume\\Interview Questions\\2024.11.08_Tekhnelogos\\TaskManagementSystem\\backend\\TaskManagementApp\\TaskManagementApp\\Interfaces\\IUnitOfWork.cs",
+              "RelativeToolTip": "TaskManagementApp\\Interfaces\\IUnitOfWork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T15:58:18.7Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\Users\\halil\\OneDrive\\Belgeler\\Documents\\Resume\\Interview Questions\\2024.11.08_Tekhnelogos\\TaskManagementSystem\\backend\\TaskManagementApp\\TaskManagementApp\\Repositories\\Repository.cs",
+              "RelativeDocumentMoniker": "TaskManagementApp\\Repositories\\Repository.cs",
+              "ToolTip": "C:\\Users\\halil\\OneDrive\\Belgeler\\Documents\\Resume\\Interview Questions\\2024.11.08_Tekhnelogos\\TaskManagementSystem\\backend\\TaskManagementApp\\TaskManagementApp\\Repositories\\Repository.cs",
+              "RelativeToolTip": "TaskManagementApp\\Repositories\\Repository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T15:54:55.967Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\halil\\OneDrive\\Belgeler\\Documents\\Resume\\Interview Questions\\2024.11.08_Tekhnelogos\\TaskManagementSystem\\backend\\TaskManagementApp\\TaskManagementApp\\Interfaces\\IRepository.cs",
+              "RelativeDocumentMoniker": "TaskManagementApp\\Interfaces\\IRepository.cs",
+              "ToolTip": "C:\\Users\\halil\\OneDrive\\Belgeler\\Documents\\Resume\\Interview Questions\\2024.11.08_Tekhnelogos\\TaskManagementSystem\\backend\\TaskManagementApp\\TaskManagementApp\\Interfaces\\IRepository.cs",
+              "RelativeToolTip": "TaskManagementApp\\Interfaces\\IRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T15:53:02.888Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\halil\\OneDrive\\Belgeler\\Documents\\Resume\\Interview Questions\\2024.11.08_Tekhnelogos\\TaskManagementSystem\\backend\\TaskManagementApp\\TaskManagementApp\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "TaskManagementApp\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\halil\\OneDrive\\Belgeler\\Documents\\Resume\\Interview Questions\\2024.11.08_Tekhnelogos\\TaskManagementSystem\\backend\\TaskManagementApp\\TaskManagementApp\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "TaskManagementApp\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T15:50:31.707Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "TaskItem.cs",
               "DocumentMoniker": "C:\\Users\\halil\\OneDrive\\Belgeler\\Documents\\Resume\\Interview Questions\\2024.11.08_Tekhnelogos\\TaskManagementSystem\\backend\\TaskManagementApp\\TaskManagementApp\\Models\\TaskItem.cs",
               "RelativeDocumentMoniker": "TaskManagementApp\\Models\\TaskItem.cs",
               "ToolTip": "C:\\Users\\halil\\OneDrive\\Belgeler\\Documents\\Resume\\Interview Questions\\2024.11.08_Tekhnelogos\\TaskManagementSystem\\backend\\TaskManagementApp\\TaskManagementApp\\Models\\TaskItem.cs",
               "RelativeToolTip": "TaskManagementApp\\Models\\TaskItem.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwCEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-09T15:02:06.605Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 6,
               "Title": "User.cs",
               "DocumentMoniker": "C:\\Users\\halil\\OneDrive\\Belgeler\\Documents\\Resume\\Interview Questions\\2024.11.08_Tekhnelogos\\TaskManagementSystem\\backend\\TaskManagementApp\\TaskManagementApp\\Models\\User.cs",
               "RelativeDocumentMoniker": "TaskManagementApp\\Models\\User.cs",
@@ -43,8 +128,7 @@
               "RelativeToolTip": "TaskManagementApp\\Models\\User.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-09T15:01:34.055Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-09T15:01:34.055Z"
             }
           ]
         }
