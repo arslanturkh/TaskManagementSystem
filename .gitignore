@@ -1,0 +1,27 @@
+# Ignore Visual Studio files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Ignore build output folders
+**/bin/
+**/obj/
+
+# Ignore npm packages
+**/node_modules/
+
+# Ignore build artifacts
+**/dist/
+
+# Ignore logs
+*.log
+npm-debug.log*
+
+# Ignore OS generated files
+.DS_Store
+Thumbs.db
+
+# Ignore sensitive configuration files
+**/appsettings*.json
+!**/appsettings.json
