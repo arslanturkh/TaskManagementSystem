@@ -4,7 +4,8 @@ using TaskManagementApp.Data;
 using TaskManagementApp.Interfaces;
 using TaskManagementApp.Repositories;
 using TaskManagementApp.bl;
-
+using Microsoft.OpenApi.Models;
+using System.Reflection;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -38,13 +39,41 @@ builder.Services.AddCors(options =>
         });
 });
 
+// Add Swagger services
+builder.Services.AddEndpointsApiExplorer();
+builder.Services.AddSwaggerGen(c =>
+{
+    c.SwaggerDoc("v1", new OpenApiInfo
+    {
+        Version = "v1",
+        Title = "Task Management API",
+        Description = "An ASP.NET Core Web API for managing tasks"
+    });
+
+    // Set the comments path for the Swagger JSON and UI.
+    var xmlFile = $"{Assembly.GetExecutingAssembly().GetName().Name}.xml";
+    var xmlPath = Path.Combine(AppContext.BaseDirectory, xmlFile);
+    Console.WriteLine($"XML Path: {xmlPath}");
+
+    c.IncludeXmlComments(xmlPath);
+});
+
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.
-if (!app.Environment.IsDevelopment())
+
+if (app.Environment.IsDevelopment())
+{
+    app.UseSwagger();
+    app.UseSwaggerUI(c =>
+    {
+        c.SwaggerEndpoint("/swagger/v1/swagger.json", "Task Management API V1");
+        c.RoutePrefix = string.Empty;
+    });
+}
+else
 {
     app.UseExceptionHandler("/Home/Error");
-    // The default HSTS value is 30 days.
     app.UseHsts();
 }
 
@@ -61,4 +90,3 @@ app.UseAuthorization();
 app.MapControllers();
 
 app.Run();
-
