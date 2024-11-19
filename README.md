@@ -11,8 +11,6 @@ A Task Management System project.
   - [Running the Application](#running-the-application)
   - [Accessing Swagger UI](#accessing-swagger-ui)
 - [API Documentation](#api-documentation)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Overview
 
